@@ -15,8 +15,8 @@
 +
 +	; tm/hm learnset
 +	tmhm CUT,   BODY_SLAM,    TOXIC,        TAKE_DOWN,    DOUBLE_EDGE,  \
-+	     HYPER_BEAM,   RAGE,         MEGA_DRAIN,   MIMIC,        DOUBLE_TEAM,  \
-+	     BIDE,         SWIFT,        REST,         SUBSTITUTE,   FLY
++	     SUBSTITUTE,   RAGE,         MIMIC,        DOUBLE_TEAM,  \
++	     BIDE,         SWIFT,        REST
 +	; end
 +
 +	db 0 ; padding
